@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="st_login">Nome de Utilizador</string>
+    <string name="st_password">Senha</string>
+</resources>
